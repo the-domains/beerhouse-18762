@@ -1,3 +1,16 @@
+layout_spectrum: 0.030201576465445728
+typography_spectrum: 1
+color:
+  brandStrength: 0.4211117535776984
+  lightness: 0.42278266678601134
+  saturation: 0.1933886461601694
+  rhythmicContrast: 0.6171339075439748
+  brandColors:
+    - '#000000'
+    - '#FEFEFE'
+    - '#CA3F01'
+    - '#FDE03A'
+    - '#776D75'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -40,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -56,7 +68,6 @@ navigation:
   - name: Help
     url: 'http://beerhouse.help'
     type: external
-layout_spectrum: 0.9220238337485065
 github: true
 name: Beerhouse
 colors:
@@ -82,17 +93,5 @@ collections:
     permalink:
       path: '/:title/'
 author: {}
-color:
-  brandStrength: 0.26147263565571
-  lightness: 0.5877546483256144
-  saturation: 0.6056563120376834
-  rhythmicContrast: 0.2509817409531979
-  brandColors:
-    - '#000000'
-    - '#FEFEFE'
-    - '#CA3F01'
-    - '#FDE03A'
-    - '#776D75'
-typography_spectrum: 0.724985704160489
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d759224-e2ae-4dbb-b166-36adc8dbe232.jpg
