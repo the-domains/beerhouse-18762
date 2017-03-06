@@ -27,10 +27,6 @@ description: 'Tap into the Business of Craft Beer '
 title: Beerhouse Education
 content_rating:
   adult: false
-navigation:
-  - url: 'http://beerhouse.help'
-    name: Help
-    type: external
 layout_spectrum: 0.03020157646544573
 github: true
 name: Beerhouse
