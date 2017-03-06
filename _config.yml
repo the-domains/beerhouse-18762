@@ -52,7 +52,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Beerhouse Education
+title: Beerhouse Education Center
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -71,7 +71,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
