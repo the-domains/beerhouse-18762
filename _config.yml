@@ -31,6 +31,9 @@ navigation:
   - name: 'About '
     url: 'http://beerhouse.teachable.com/about/'
     type: external
+  - name: Blog
+    url: 'http://beerhouse.teachable.com/blog/'
+    type: external
 collections:
   - index:
       navigable: true
