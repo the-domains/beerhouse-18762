@@ -37,7 +37,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-purpose: []
+purpose:
+  - type: external
+    url: 'http://beerhouse.teachable.com'
+    label: FREE! Mini-Course
 analytics: {}
 opengraph: {}
 collections:
