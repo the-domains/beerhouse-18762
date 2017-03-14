@@ -28,17 +28,17 @@ title: Beerhouse Education Center
 content_rating:
   adult: false
 navigation:
-  - url: 'http://beerhouse.teachable.com/about/'
-    name: 'About '
+  - name: 'About '
+    url: 'http://beerhouse.teachable.com/about/'
     type: external
-  - url: 'http://beerhouse.teachable.com/blog/'
-    name: Blog
+  - name: Blog
+    url: 'http://beerhouse.teachable.com/blog/'
     type: external
-  - url: 'http://beerhouse.teachable.com/contact/'
-    name: Contact
+  - name: Contact
+    url: 'http://beerhouse.teachable.com/contact/'
     type: external
-  - url: 'http://beerhouse.photo'
-    name: Photo
+  - name: Photo
+    url: 'http://beerhouse.photo'
     type: external
 layout_spectrum: 0.1767895462570509
 github: true
@@ -65,10 +65,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose:
-  - url: 'http://beerhouse.teachable.com'
-    type: external
-    label: FREE! Mini-Course
+purpose: []
 color:
   brandStrength: 0.1851145770029156
   lightness: 0.825105119138624
